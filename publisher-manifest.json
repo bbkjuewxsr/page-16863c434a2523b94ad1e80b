@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "9cef143bce7eaaaa756bd035",
+  "owner": "bbkjuewxsr",
+  "repo": "page-16863c434a2523b94ad1e80b",
+  "title": "Magic",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "16863c434a2523b94ad1e80b",
+      "a": "Magic",
+      "b": "2027官方最新地址导航",
+      "entity": "Magic",
+      "brand": "Magic",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "581692ef2eb1c830af45d46dd4e2f68619f9d07713a628a3b9c64f03aade73c9",
+      "content": {
+        "primary_entity": "Magic",
+        "keyword1": "Magic",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统挑客户端，Windows、macOS、iOS、Android、路由器各有对应版本。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐与客户端，订阅配置一次完成。",
+          "AI_CLOSING_TITLE": "开始配置 Magic",
+          "AI_DESCRIPTION": "，Magic 提供基础版、旗舰版与团队版三档套餐，月流量从 100GB 到 1000GB，支持 3 至 20 台设备同时在线。旗舰版配备 IPLC 专线并优化游戏加速，团队版提供 VIP 高带宽节点与定制路由。选择套餐时按常用设备数量和月流量估算，按年付可节省两个月费用。客户端覆盖 Windows、macOS、iOS、Android 与路由器，导入订阅后即可使用。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量到订阅周期，三点理清选择思路。",
+          "AI_FEATURES_TITLE": "Magic 套餐与设备要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 适合手机加电脑两台设备，旗舰版 300GB 满足多设备流媒体，团队版 1000GB 面向小型办公。",
+          "AI_FEATURE_TITLE_1": "按流量匹配套餐",
+          "AI_FEATURE_TEXT_2": "在线设备数分别为 3 台、5 台与 20 台，手机、平板、电脑与路由器同时连接时按常用设备数选档。",
+          "AI_FEATURE_TITLE_2": "按设备数量选档",
+          "AI_FEATURE_TEXT_3": "月付灵活，按年付仅需 ¥150、¥350、¥850，长期使用摊薄每月成本。",
+          "AI_FEATURE_TITLE_3": "按月付或年付",
+          "AI_GUIDE_INTRO": "三步完成 Magic 订阅配置。",
+          "AI_GUIDE_TITLE": "配置流程",
+          "AI_HERO_INTRO": "Magic 提供基础版、旗舰版与团队版三档海外加速套餐，月流量从 100GB 到 1000GB，支持 3 至 20 台设备同时在线。旗舰版搭载 IPLC 专线并针对游戏加速优化，团队版配备 VIP 高带宽节点与企业定制路由。客户端覆盖 Windows、macOS、iOS、Android 与路由器，导入订阅后即可使用。",
+          "AI_HERO_SUBTITLE": "三档套餐覆盖多设备加速",
+          "AI_HIGHLIGHT_1": "100GB 至 1000GB 月流量",
+          "AI_HIGHLIGHT_2": "3 至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "年付省两个月费用",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按设备数与流量选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量需求，从基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端版本，Windows、macOS、iOS、Android 与路由器各有对应安装方式。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "依照客户端文档导入订阅链接，保存后连接节点即可开始使用。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Magic 套餐与客户端",
+          "AI_FAQ_ANSWER_1": "先估算常用设备数量：单人手机加电脑选基础版即可；家庭或随身多设备建议旗舰版，5 台同时在线更从容；小型团队可选团队版。流量按每月实际使用量向上取一档比较稳妥。",
+          "AI_FAQ_ANSWER_2": "支持按月与按年两种计费，年付价格更划算，例如基础版年付 150 元、旗舰版 350 元、团队版 850 元。订阅周期从付款成功后开始计算，到期前续费可继续使用。",
+          "AI_FAQ_ANSWER_3": "基础版提供普通线路节点池，旗舰版含全节点原生流媒体解锁与 IPLC 专线游戏加速优化，团队版使用 VIP 专属高带宽节点。节点类型不同，适合的场景也有差别。",
+          "AI_FAQ_ANSWER_4": "在客户端中添加订阅地址并更新节点列表，然后选择延迟较低的节点连接。Windows 与 macOS 常用 Clash Verge，iOS 用 Shadowrocket，Android 用 Clash for Android，路由器可导入订阅配置。",
+          "AI_FAQ_ANSWER_5": "套餐支持随时升级，补差额后流量与设备数按新套餐生效；降级通常在下一个订阅周期生效。具体以客户端账号内的套餐变更提示为准。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版该怎么选？",
+          "AI_FAQ_QUESTION_2": "订阅支持哪些计费周期？",
+          "AI_FAQ_QUESTION_3": "套餐之间的节点有什么区别？",
+          "AI_FAQ_QUESTION_4": "在客户端里怎么导入订阅？",
+          "AI_FAQ_QUESTION_5": "套餐可以中途升级或降级吗？",
+          "AI_FAQ_TITLE": "常见疑问"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yo59kh.cn",
+    "host": "yo59kh.cn"
+  },
+  "file_hashes": {
+    "index.html": "427526e5b188ab57829caba22c471fae3c0be0d449c8ac08076fb0d7c7a3672f",
+    "sitemap.xml": "44df9302de4d9f13a98496f305715f800dd490a6a50175e160782ddc6b03958e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0ddb9531a8d6ee4affa984cb85369d65472cdf89b27cbb77de180f7907992155",
+    "robots.txt": "14212c67d17191611f4c2c788b158413b598a97c6ea682ce0448ff8c0a4374ad",
+    "882dab3ecb79cbde8db8249dfcd63685.txt": "195494781030ca4eaabc473f550acb01587b9b6dd8864aa2766a1f148aafc68e"
+  },
+  "revision": "2234821c9b49efb4bc55ba82819a3b6ca92e85c732ac506f925305a507a9ab4d"
+}
